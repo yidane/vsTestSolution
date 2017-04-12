@@ -13,10 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kafkaConsume", "kafka\kafka
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "kafka环境搭建", "kafka环境搭建", "{AC4BEC0C-1090-4DA0-91FF-95437619946E}"
 	ProjectSection(SolutionItems) = preProject
-		D:\Installation Package\1.jre-8u121-windows-x64.exe = D:\Installation Package\1.jre-8u121-windows-x64.exe
-		D:\Installation Package\2.zookeeper-3.4.8.tar.gz = D:\Installation Package\2.zookeeper-3.4.8.tar.gz
-		D:\Installation Package\3.kafka_2.11-0.10.1.1.tgz = D:\Installation Package\3.kafka_2.11-0.10.1.1.tgz
-		kafka-guide.md = kafka-guide.md
+		kafka\kafka环境搭建\1.jre-8u121-windows-x64.exe = kafka\kafka环境搭建\1.jre-8u121-windows-x64.exe
+		kafka\kafka环境搭建\2.zookeeper-3.4.8.tar.gz = kafka\kafka环境搭建\2.zookeeper-3.4.8.tar.gz
+		kafka\kafka环境搭建\3.kafka_2.11-0.10.1.1.tgz = kafka\kafka环境搭建\3.kafka_2.11-0.10.1.1.tgz
+		kafka\kafka环境搭建\kafka-guide.md = kafka\kafka环境搭建\kafka-guide.md
 	EndProjectSection
 EndProject
 Global
