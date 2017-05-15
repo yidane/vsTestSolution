@@ -19,6 +19,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "kafka环境搭建", "kafka�
 		kafka\kafka环境搭建\kafka-guide.md = kafka\kafka环境搭建\kafka-guide.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".Net Core", ".Net Core", "{85A63D3B-B6D9-4E81-AFB9-227879D0F4C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
