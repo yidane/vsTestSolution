@@ -1,0 +1,15 @@
+﻿syntax = "proto3";
+package sayHello;
+
+service UserService {
+	rpc GetUser(UserRequest) returns (User) {}
+}
+
+message User {
+	string  UserName = 1;
+	int64 UserID= 2;
+}
+
+message UserRequest {
+	int64 UserID = 1;
+}
